@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+
+    background-color: #FBFF41
+}
+h1 {
+    background-color: #EEE508;
+    text-align: center;
+}
+p {
+   border:3px solid rgb(255, 255, 255);
+   color:  #794E0D;
+}
+p1 {
+     color: #794E0D;
+     text-align: left;
+     font-size: 20px;
+}
+img {
+     border: 3px solid rgb(255, 255, 255);  
+}
+li {
+    color:  #794E0D;
+}
